@@ -24,6 +24,10 @@ body {
     color: #d9dcd6;
 }
 
+abbr.seo:hover {
+    color:#2589bd;
+}
+
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -120,7 +124,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* todo */
 #search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -129,7 +133,7 @@ p {
     background-color: #0072bb;
     color: #d9dcd6;
 }
-
+/* todo */
 #online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -138,7 +142,7 @@ p {
     background-color: #0072bb;
     color: #d9dcd6;
 }
-
+/* todo */
 #social-media-marketing {
     padding: 50px;
     height: 300px;
