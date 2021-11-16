@@ -1,1 +1,9 @@
-# 02-homework
+# HoriSEOn (Search engine optimization)
+
+## Table of Contents
+- Visuals
+- 
+
+
+## Description
+- 
