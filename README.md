@@ -10,4 +10,4 @@ Visit the Horiseon to view the latest changes
 ## Contributors
 
 Jesse Monks
-- [Github](https://heatedtowel.github.io/seo-optimization/)
+- [Github](https://github.com/heatedtowel/seo-optimization/)
