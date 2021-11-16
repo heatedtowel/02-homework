@@ -1,14 +1,17 @@
+/* Formatting for the entire page */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* Coloring the background of the website */
 header,
 body {
     background-color: #d9dcd6;
 }
 
+/* Setting font and color for the header */
 .header {
     padding: 10px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -46,6 +49,7 @@ abbr.seo:hover {
     margin-left: 30px;
 }
 
+/* Setting hover state for the links at the top of the page */
 .tophover {
     color: #000;
     text-decoration: none;
@@ -57,6 +61,7 @@ abbr.seo:hover {
     color: #d9dcd6;
 }
 
+/* Styling for the 'back to top' button */
 .backtotopcontainer {
     font-size: 20px;
     padding-bottom: 20px;
@@ -64,6 +69,7 @@ abbr.seo:hover {
     color: #000;
 }
 
+/* Setting the hover state color for the 'back to top' button */
 .backtotop:hover {
     color: #0072bb;
 }
@@ -97,6 +103,7 @@ p {
     margin-left: 20px;
 }
 
+/* Setting styling for the benefits section */
 .benefits {
     margin-right: 20px;
     padding: 10px;
